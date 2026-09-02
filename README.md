@@ -6,8 +6,4 @@ Welcome to my Data Structures repository! This collection showcases various labo
 ---
 
 ## 📁 Projects Gallery
-EOF
 
-git add README.md
-git commit -m "Update README"
-git push
