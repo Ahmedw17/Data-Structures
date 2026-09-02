@@ -11,4 +11,7 @@ Welcome to my Data Structures repository! This collection showcases various labo
 - **Description:** A program that finds the maximum and minimum values in both a 1D array and a 2D array, then prints the square of each element.
 - **Key Concepts:** Enhanced `for` loops, nested arrays (2D arrays), and conditional comparisons.
 
-
+### 2. Singly Linked List (Generic) 🔗
+- **File:** [Lab02.java](Lab02.java)
+- **Description:** A custom implementation of a Singly Linked List supporting generic types, with add (first, last, at index), remove, find, and display operations. Tested using a list of `Person` objects.
+- **Key Concepts:** Generics, custom `Node` class, `equals()` and `toString()` overriding, linked list traversal.
