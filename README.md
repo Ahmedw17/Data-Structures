@@ -43,3 +43,11 @@ Welcome to my Data Structures repository! This collection showcases various labo
 * **File:** [Lab07.java](Lab07.java)
 * **Description:** A comprehensive implementation of Max Heap and Min Heap data structures using ArrayList. Includes operations for insertion, deletion, and heap restructuring. MaxHeap maintains the largest element at the root, while MinHeap maintains the smallest element. Both implement heapifyUp and heapifyDown operations to maintain heap properties after insertions and deletions.
 * **Key Concepts:** Heap property maintenance, heapifyUp and heapifyDown operations, parent-child relationships in binary heaps, priority queue implementation, efficient insertion and deletion in O(log n) time, heap sort algorithm foundations.
+
+
+### 8. HashMap Student Records Management System 📋
+
+* **File:** [Lab08.java](Lab08.java)
+* **Description:** A practical implementation of a student records management system using HashMap data structure. Includes operations for inserting, searching, and deleting student records by ID. Demonstrates HashMap functionality with interactive user input for managing student database efficiently with O(1) lookup time complexity.
+* **Key Concepts:** HashMap key-value pairs, put() and get() methods, containsKey() for searching, remove() for deletion, interactive user input with Scanner, efficient database management, hash table implementation.
+
