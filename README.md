@@ -63,3 +63,12 @@ Welcome to my Data Structures repository! This collection showcases various labo
 * **Description:** A complete implementation of a Circular Doubly Linked List data structure supporting bidirectional traversal. Includes operations for insertion (addFirst, addLast, addNode), deletion (removeFirst, removeLast, removeNode), and searching with duplicate detection. Features circular structure allowing continuous traversal in both directions with proper edge case handling.
 * **Key Concepts:** Circular doubly linked lists, bidirectional pointers (next and prev), forward and backward traversal, insertion and deletion at multiple positions, duplicate element detection, circular buffer implementation, applications in playlists and browser history navigation.
 
+### 11. Circular Singly Linked List Implementation 🔄
+
+* **File:** [Lab11.java](Lab11.java)
+* **Description:** A practical implementation of a Circular Singly Linked List data structure with efficient unidirectional traversal. Includes operations for insertion (addFirst, addLast, addAtPos), deletion (removeFirst, removeNode), and searching. Features an efficient rotate() operation that shifts pointers in O(1) time. Circular structure enables continuous traversal with minimal memory overhead.
+* **Key Concepts:** Circular singly linked lists, single next pointers, unidirectional traversal, insertion and deletion at multiple positions, efficient pointer-based rotation, find and remove operations, circular buffer implementation, applications in playlists and carousel navigation.
+
+
+
+
