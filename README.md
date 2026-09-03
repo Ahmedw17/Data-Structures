@@ -31,3 +31,9 @@ Welcome to my Data Structures repository! This collection showcases various labo
 - **File:** [Lab05.java](Lab05.java)
 - **Description:** Uses Stack to check if an expression has balanced parentheses, and to convert a decimal number to its binary representation. Includes input validation to handle non-integer input safely.
 - **Key Concepts:** Stack (LIFO), character matching, modulus and integer division, `try-catch` exception handling.
+
+### 6. Binary Search Tree (BST) 🌳
+
+* **File:** Lab06.java
+* **Description:** A complete implementation of a Binary Search Tree with support for insertion, searching, and various tree traversal methods. Includes operations to find maximum/minimum values, calculate node depth and height, and display tree structure using inOrder, preOrder, and postOrder traversals.
+* **Key Concepts:** Binary search optimization, recursive tree traversal (inOrder, preOrder, postOrder), parent-child node relationships, tree depth and height calculations, BST property maintenance.
