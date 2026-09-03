@@ -21,3 +21,10 @@ Welcome to my Data Structures repository! This collection showcases various labo
 - **File:** [Lab03.java](Lab03.java)
 - **Description:** A program that calculates the sum of digits of a non-negative integer using recursion.
 - **Key Concepts:** Recursion, base case and recursive case, modulus (`%`) and integer division operators.
+
+### 4. Stack Implementation (Array & Linked List) 📚
+- **File:** [Lab04.java](Lab04.java)
+- **Description:** Implements a Stack data structure using both an array and a linked list, demonstrating push, pop, top, and display operations, along with transferring elements between the two stacks.
+- **Key Concepts:** LIFO (Last In, First Out) principle, array-based vs. linked list-based implementations, dynamic vs. fixed-size structures.
+
+- 
