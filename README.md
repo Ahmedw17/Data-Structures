@@ -51,3 +51,11 @@ Welcome to my Data Structures repository! This collection showcases various labo
 * **Description:** A practical implementation of a student records management system using HashMap data structure. Includes operations for inserting, searching, and deleting student records by ID. Demonstrates HashMap functionality with interactive user input for managing student database efficiently with O(1) lookup time complexity.
 * **Key Concepts:** HashMap key-value pairs, put() and get() methods, containsKey() for searching, remove() for deletion, interactive user input with Scanner, efficient database management, hash table implementation.
 
+### 9. Queue and Double-Ended Queue Implementation 🚀
+
+* **File:** [Lab09.java](Lab09.java)
+* **Description:** A comprehensive implementation of two queue data structures using linked lists. Includes QueueLinkedList for simple FIFO queues and QueueDoubleEnded for flexible double-ended queues using circular doubly linked lists. Demonstrates enQueue/deQueue operations from single or both ends with proper size tracking and generic type support.
+* **Key Concepts:** FIFO queue operations, single vs double-ended queues, circular doubly linked lists, enQueueFront() and enQueueRear() methods, deQueueFront() and deQueueRear() methods, generic implementation with type parameters, queue traversal, queue applications in BFS and task scheduling.
+
+
+
