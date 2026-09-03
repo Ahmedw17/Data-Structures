@@ -57,5 +57,9 @@ Welcome to my Data Structures repository! This collection showcases various labo
 * **Description:** A comprehensive implementation of two queue data structures using linked lists. Includes QueueLinkedList for simple FIFO queues and QueueDoubleEnded for flexible double-ended queues using circular doubly linked lists. Demonstrates enQueue/deQueue operations from single or both ends with proper size tracking and generic type support.
 * **Key Concepts:** FIFO queue operations, single vs double-ended queues, circular doubly linked lists, enQueueFront() and enQueueRear() methods, deQueueFront() and deQueueRear() methods, generic implementation with type parameters, queue traversal, queue applications in BFS and task scheduling.
 
+### 10. Circular Doubly Linked List Implementation 🔄
 
+* **File:** [Lab10.java](Lab10.java)
+* **Description:** A complete implementation of a Circular Doubly Linked List data structure supporting bidirectional traversal. Includes operations for insertion (addFirst, addLast, addNode), deletion (removeFirst, removeLast, removeNode), and searching with duplicate detection. Features circular structure allowing continuous traversal in both directions with proper edge case handling.
+* **Key Concepts:** Circular doubly linked lists, bidirectional pointers (next and prev), forward and backward traversal, insertion and deletion at multiple positions, duplicate element detection, circular buffer implementation, applications in playlists and browser history navigation.
 
