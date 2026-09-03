@@ -38,8 +38,8 @@ Welcome to my Data Structures repository! This collection showcases various labo
 * **Description:** A complete implementation of a Binary Search Tree with support for insertion, searching, and various tree traversal methods. Includes operations to find maximum/minimum values, calculate node depth and height, and display tree structure using inOrder, preOrder, and postOrder traversals.
 * **Key Concepts:** Binary search optimization, recursive tree traversal (inOrder, preOrder, postOrder), parent-child node relationships, tree depth and height calculations, BST property maintenance.
 
-7. Max Heap and Min Heap Implementation 🏆
+### 7. Max Heap and Min Heap Implementation 🏆
 
-* **File:** Lab07.java
+* **File:** [Lab07.java](Lab07.java)
 * **Description:** A comprehensive implementation of Max Heap and Min Heap data structures using ArrayList. Includes operations for insertion, deletion, and heap restructuring. MaxHeap maintains the largest element at the root, while MinHeap maintains the smallest element. Both implement heapifyUp and heapifyDown operations to maintain heap properties after insertions and deletions.
 * **Key Concepts:** Heap property maintenance, heapifyUp and heapifyDown operations, parent-child relationships in binary heaps, priority queue implementation, efficient insertion and deletion in O(log n) time, heap sort algorithm foundations.
