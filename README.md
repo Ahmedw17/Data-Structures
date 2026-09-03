@@ -27,4 +27,7 @@ Welcome to my Data Structures repository! This collection showcases various labo
 - **Description:** Implements a Stack data structure using both an array and a linked list, demonstrating push, pop, top, and display operations, along with transferring elements between the two stacks.
 - **Key Concepts:** LIFO (Last In, First Out) principle, array-based vs. linked list-based implementations, dynamic vs. fixed-size structures.
 
-- 
+### 5. Balanced Parentheses & Decimal to Binary (Stack) ⚙️
+- **File:** [Lab05.java](Lab05.java)
+- **Description:** Uses Stack to check if an expression has balanced parentheses, and to convert a decimal number to its binary representation. Includes input validation to handle non-integer input safely.
+- **Key Concepts:** Stack (LIFO), character matching, modulus and integer division, `try-catch` exception handling.
