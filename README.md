@@ -34,6 +34,6 @@ Welcome to my Data Structures repository! This collection showcases various labo
 
 ### 6. Binary Search Tree (BST) 🌳
 
-* **File:** Lab06.java
+* **File:** [Lab06.java](Lab06.java)
 * **Description:** A complete implementation of a Binary Search Tree with support for insertion, searching, and various tree traversal methods. Includes operations to find maximum/minimum values, calculate node depth and height, and display tree structure using inOrder, preOrder, and postOrder traversals.
 * **Key Concepts:** Binary search optimization, recursive tree traversal (inOrder, preOrder, postOrder), parent-child node relationships, tree depth and height calculations, BST property maintenance.
