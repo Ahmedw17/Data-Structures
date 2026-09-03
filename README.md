@@ -76,6 +76,6 @@ Welcome to my Data Structures repository! This collection showcases various labo
 * **Key Concepts:** Graph representation using adjacency matrix, directed edges, vertex and edge operations, indegree and outdegree calculations, graph traversal representation, fixed-size graph structure, matrix-based edge storage, applications in social networks and transportation systems.
 
 ## ⚙️ Tech Stack
-Language: Java SE
-Concepts: Data Structures, Algorithms, Object-Oriented Programming, Generic Types, Recursion
-Tools: GitHub, NetBeans, JDK
+* Language: Java SE
+* Concepts: Data Structures, Algorithms, Object-Oriented Programming, Generic Types, Recursion
+* Tools: GitHub, NetBeans, JDK
