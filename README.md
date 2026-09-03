@@ -75,4 +75,7 @@ Welcome to my Data Structures repository! This collection showcases various labo
 * **Description:** A complete implementation of a directed graph data structure using adjacency matrix representation. Includes operations for vertex management (addVertex, deleteVertex, findVertex), edge management (addEdge, deleteEdge), and degree calculations (indegree, outdegree). Supports efficient edge lookup in O(1) time and provides comprehensive graph visualization with edge connections.
 * **Key Concepts:** Graph representation using adjacency matrix, directed edges, vertex and edge operations, indegree and outdegree calculations, graph traversal representation, fixed-size graph structure, matrix-based edge storage, applications in social networks and transportation systems.
 
-
+## ⚙️ Tech Stack
+Language: Java SE
+Concepts: Data Structures, Algorithms, Object-Oriented Programming, Generic Types, Recursion
+Tools: GitHub, NetBeans, JDK
