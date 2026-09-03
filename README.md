@@ -1,7 +1,6 @@
 # 🧠 Data Structures Portfolio
 
 Welcome to my Data Structures repository! This collection showcases various laboratory assignments and Java programs focused on core data structures, algorithms, and clean coding practices.
-
 ---
 
 ## 📁 Projects Gallery
